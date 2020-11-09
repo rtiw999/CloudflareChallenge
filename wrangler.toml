@@ -1,0 +1,6 @@
+name = "challengeone"
+type = "webpack"
+account_id = "$process.env.CF_ACCOUNT_ID"
+workers_dev = true
+route = ""
+zone_id = ""
