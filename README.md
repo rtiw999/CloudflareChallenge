@@ -1,3 +1,5 @@
+Visit the deployed workers project at https://challengeone.rohittiwari1122.workers.dev/ and visit either the "/links" or "/" endpoints!
+
 ## Running and Building this project
 Use 
 ```
